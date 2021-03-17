@@ -3,6 +3,7 @@
     "description": "library to simplify mail sends with html templates",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Maou Yami",
