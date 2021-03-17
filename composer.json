@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-          "YamiTec\\MailShot": "src/"
+          "YamiTec\\MailShot\\": "src/"
         }
     }
 }
