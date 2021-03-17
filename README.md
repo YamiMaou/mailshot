@@ -2,17 +2,7 @@
 
 # Instalação
 
-para iniciar o projeto basta clonar o repositorio e utilizar o branch ```main```
-
-para baixar o repositório rode o comando no terminal :
-
-```git clone git@github.com:YamiMaou/mailshot.git```
-
-e para alterar o branch para rode o comando :
-
-```git checkout dev ``` ou ```git checkout main ```
-
-execute o comando ```composer update``` para atualizar as dependências do projeto.
+para iniciar o projeto basta instalar apartir do composer  com o comando ```composer require yamitec/mail-shot```
 
 # Exemplo 
 
