@@ -1,4 +1,4 @@
-# Projeto APP YAMITEC
+# YamiTec MailSHOT
 
 # Instalação
 
