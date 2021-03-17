@@ -1,0 +1,20 @@
+{
+    "name": "yamitec/mail-shot",
+    "description": "library to simplify mail sends with html templates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maou Yami",
+            "email": "maou@yamitec.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+          "YamiTec\\MailShot": "src/"
+        }
+    }
+}
